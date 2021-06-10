@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0001ef6accf074ea80492027b6372d, type: 3}
+  m_Name: SecondPiece
+  m_EditorClassIdentifier: 
+  <dialog>k__BackingField:
+  - <Name>k__BackingField: Henry
+    <Line>k__BackingField: The Aether Gloves were seen on a zombie in the east of
+      Axnor Mountain, in the middle of some trees on the mountain.
+  - <Name>k__BackingField: Henry
+    <Line>k__BackingField: They say the zombie didn't even need to eat anymore after
+      it took it.
+  <Response>k__BackingField: []

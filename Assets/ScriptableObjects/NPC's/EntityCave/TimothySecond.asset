@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0001ef6accf074ea80492027b6372d, type: 3}
+  m_Name: TimothySecond
+  m_EditorClassIdentifier: 
+  <dialog>k__BackingField:
+  - <Name>k__BackingField: Timothy
+    <Line>k__BackingField: Yes, you've killed him, but that doesn't make everything
+      right that you've done wrong. I knew I should've executed you back at the castle
+      when I had the chance.
+  - <Name>k__BackingField: Timothy
+    <Line>k__BackingField: You're coming with us.
+  <Response>k__BackingField:
+  - <Text>k__BackingField: B- but...
+    <Dialog>k__BackingField: {fileID: 0}
+    <Quest>k__BackingField: {fileID: 0}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: MarketPlaceFinal

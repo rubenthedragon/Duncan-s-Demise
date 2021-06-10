@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0001ef6accf074ea80492027b6372d, type: 3}
+  m_Name: MeanGuard
+  m_EditorClassIdentifier: 
+  <dialog>k__BackingField:
+  - <Name>k__BackingField: Old man
+    <Line>k__BackingField: No please, I really don't have anything left.
+  - <Name>k__BackingField: Guard
+    <Line>k__BackingField: 'Should''ve thought of that before you stole all that
+      food! '
+  - <Name>k__BackingField: Old man
+    <Line>k__BackingField: But I didn't do that! You-
+  - <Name>k__BackingField: Guard
+    <Line>k__BackingField: And lying to the King's Guard, if you don't quickly give
+      me-
+  - <Name>k__BackingField: Guard
+    <Line>k__BackingField: What are you doing here Duncan?
+  <Response>k__BackingField:
+  - <Text>k__BackingField: How dare you threaten our citizens?!
+    <Dialog>k__BackingField: {fileID: 11400000, guid: 0453bef5b8fc47c498fd2b0ee141374f, type: 2}
+    <Quest>k__BackingField: {fileID: 0}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: 
+  - <Text>k__BackingField: I was just going away.
+    <Dialog>k__BackingField: {fileID: 0}
+    <Quest>k__BackingField: {fileID: 0}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: 

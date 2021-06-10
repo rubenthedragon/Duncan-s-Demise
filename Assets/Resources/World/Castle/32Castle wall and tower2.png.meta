@@ -1,0 +1,514 @@
+fileFormatVersion: 2
+guid: 7b18f037a9f3ac949b58acaf2771dcda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5367594462708205465
+    second: 32Castle wall and tower2_0
+  - first:
+      213: -8631112000233746119
+    second: 32Castle wall and tower2_1
+  - first:
+      213: 4884031049370098202
+    second: 32Castle wall and tower2_2
+  - first:
+      213: 5241456973065742105
+    second: 32Castle wall and tower2_3
+  - first:
+      213: 7927897226188331648
+    second: 32Castle wall and tower2_4
+  - first:
+      213: -7992149258874908090
+    second: 32Castle wall and tower2_5
+  - first:
+      213: 2614432982309636276
+    second: 32Castle wall and tower2_6
+  - first:
+      213: -8017432588619226823
+    second: 32Castle wall and tower2_7
+  - first:
+      213: -4498619224641664335
+    second: 32Castle wall and tower2_8
+  - first:
+      213: 2781538886711975234
+    second: 32Castle wall and tower2_9
+  - first:
+      213: -4268582813071911556
+    second: 32Castle wall and tower2_10
+  - first:
+      213: -2862147443826209017
+    second: 32Castle wall and tower2_11
+  - first:
+      213: -8293111037068981955
+    second: 32Castle wall and tower2_12
+  - first:
+      213: 7757815198877641486
+    second: 32Castle wall and tower2_13
+  - first:
+      213: -4672834153918440911
+    second: 32Castle wall and tower2_14
+  - first:
+      213: -6671007205364725987
+    second: 32Castle wall and tower2_15
+  - first:
+      213: -6135792642859447892
+    second: 32Castle wall and tower2_16
+  - first:
+      213: 4745408141863830650
+    second: 32Castle wall and tower2_17
+  - first:
+      213: 2888259346435937014
+    second: 32Castle wall and tower2_18
+  - first:
+      213: 9142390488082773650
+    second: 32Castle wall and tower2_19
+  - first:
+      213: 5362526222531452073
+    second: 32Castle wall and tower2_20
+  - first:
+      213: -1707386919647056036
+    second: 32Castle wall and tower2_21
+  - first:
+      213: -5399063646540482410
+    second: 32Castle wall and tower2_22
+  - first:
+      213: -3119288086098628998
+    second: 32Castle wall and tower2_23
+  - first:
+      213: 7036570247585060786
+    second: 32Castle wall and tower2_24
+  - first:
+      213: -6118820467040866968
+    second: 32Castle wall and tower2_25
+  - first:
+      213: 8803723751209597797
+    second: 32Castle wall and tower2_26
+  - first:
+      213: 5962610100180949033
+    second: 32Castle wall and tower2_27
+  - first:
+      213: 2508088845460423374
+    second: 32Castle wall and tower2_28
+  - first:
+      213: 7827210609563893380
+    second: 32Castle wall and tower2_29
+  - first:
+      213: -5145691463629415928
+    second: 32Castle wall and tower2_30
+  - first:
+      213: -1952360888198582729
+    second: 32Castle wall and tower2_31
+  - first:
+      213: 9148985109054262919
+    second: 32Castle wall and tower2_32
+  - first:
+      213: 6489479851086158757
+    second: 32Castle wall and tower2_33
+  - first:
+      213: -1304742094055721681
+    second: 32Castle wall and tower2_34
+  - first:
+      213: -269307059816353579
+    second: 32Castle wall and tower2_35
+  - first:
+      213: 783116033063965104
+    second: 32Castle wall and tower2_36
+  - first:
+      213: 8900664771385734904
+    second: 32Castle wall and tower2_37
+  - first:
+      213: 2037761439743944081
+    second: 32Castle wall and tower2_38
+  - first:
+      213: -3546404239743765905
+    second: 32Castle wall and tower2_39
+  - first:
+      213: -1284348191075809031
+    second: 32Castle wall and tower2_40
+  - first:
+      213: 7126798515977219684
+    second: 32Castle wall and tower2_41
+  - first:
+      213: -1321135057028161533
+    second: 32Castle wall and tower2_42
+  - first:
+      213: -5750851855101899422
+    second: 32Castle wall and tower2_43
+  - first:
+      213: 2462206202759799299
+    second: 32Castle wall and tower2_44
+  - first:
+      213: 1204760208233618278
+    second: 32Castle wall and tower2_45
+  - first:
+      213: -8718588308703184479
+    second: 32Castle wall and tower2_46
+  - first:
+      213: 5342694216988657241
+    second: 32Castle wall and tower2_47
+  - first:
+      213: -3326825662989394889
+    second: 32Castle wall and tower2_48
+  - first:
+      213: -3711483712213634128
+    second: 32Castle wall and tower2_49
+  - first:
+      213: 1111904553052138371
+    second: 32Castle wall and tower2_50
+  - first:
+      213: -3596555799768697773
+    second: 32Castle wall and tower2_51
+  - first:
+      213: 5282298761143503562
+    second: 32Castle wall and tower2_52
+  - first:
+      213: -8569894888555027071
+    second: 32Castle wall and tower2_53
+  - first:
+      213: -4250172965094104287
+    second: 32Castle wall and tower2_54
+  - first:
+      213: 2580397515079303385
+    second: 32Castle wall and tower2_55
+  - first:
+      213: 8446395506591192887
+    second: 32Castle wall and tower2_56
+  - first:
+      213: -3484337808535634270
+    second: 32Castle wall and tower2_57
+  - first:
+      213: -546087679834196514
+    second: 32Castle wall and tower2_58
+  - first:
+      213: 4405673183525256068
+    second: 32Castle wall and tower2_59
+  - first:
+      213: -77305838734237563
+    second: 32Castle wall and tower2_60
+  - first:
+      213: -9138974614935711598
+    second: 32Castle wall and tower2_61
+  - first:
+      213: 3740566596585409198
+    second: 32Castle wall and tower2_62
+  - first:
+      213: -4409173448124633580
+    second: 32Castle wall and tower2_63
+  - first:
+      213: 7236246299032935814
+    second: 32Castle wall and tower2_64
+  - first:
+      213: 1862509626486544497
+    second: 32Castle wall and tower2_65
+  - first:
+      213: 5627077330210937937
+    second: 32Castle wall and tower2_66
+  - first:
+      213: -2289665110601973424
+    second: 32Castle wall and tower2_67
+  - first:
+      213: -4849700485853065945
+    second: 32Castle wall and tower2_68
+  - first:
+      213: 7079639136348466731
+    second: 32Castle wall and tower2_69
+  - first:
+      213: 465133844871188017
+    second: 32Castle wall and tower2_70
+  - first:
+      213: 5168294256527688876
+    second: 32Castle wall and tower2_71
+  - first:
+      213: 3385996145202981816
+    second: 32Castle wall and tower2_72
+  - first:
+      213: 3919609461498841417
+    second: 32Castle wall and tower2_73
+  - first:
+      213: -8832035298672274435
+    second: 32Castle wall and tower2_74
+  - first:
+      213: -253783080502735611
+    second: 32Castle wall and tower2_75
+  - first:
+      213: -6733212230625183383
+    second: 32Castle wall and tower2_76
+  - first:
+      213: -4589413564440169822
+    second: 32Castle wall and tower2_77
+  - first:
+      213: 76072569598041817
+    second: 32Castle wall and tower2_78
+  - first:
+      213: -5783565383533990306
+    second: 32Castle wall and tower2_79
+  - first:
+      213: -6024210141953234788
+    second: 32Castle wall and tower2_80
+  - first:
+      213: -5399785346343146953
+    second: 32Castle wall and tower2_81
+  - first:
+      213: 424135697091261563
+    second: 32Castle wall and tower2_82
+  - first:
+      213: 4001923024773505432
+    second: 32Castle wall and tower2_83
+  - first:
+      213: 8598646962709102245
+    second: 32Castle wall and tower2_84
+  - first:
+      213: 2777623649804533655
+    second: 32Castle wall and tower2_85
+  - first:
+      213: 948842632473727407
+    second: 32Castle wall and tower2_86
+  - first:
+      213: 2476246651620234851
+    second: 32Castle wall and tower2_87
+  - first:
+      213: 4879862490787050722
+    second: 32Castle wall and tower2_88
+  - first:
+      213: 2178814460604767888
+    second: 32Castle wall and tower2_89
+  - first:
+      213: 6227711231250394919
+    second: 32Castle wall and tower2_90
+  - first:
+      213: 2866390368538178448
+    second: 32Castle wall and tower2_91
+  - first:
+      213: 1287627354587268728
+    second: 32Castle wall and tower2_92
+  - first:
+      213: 2052335910973166330
+    second: 32Castle wall and tower2_93
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 32Castle wall and tower2_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9978310a9b68d7a40800000000000000
+      internalID: 5367594462708205465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32Castle wall and tower2_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931d4798d51283880800000000000000
+      internalID: -8631112000233746119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32Castle wall and tower2_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1adea9dc5097c340800000000000000
+      internalID: 4884031049370098202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32Castle wall and tower2_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 32
+        width: 128
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917e319b8556db840800000000000000
+      internalID: 5241456973065742105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32Castle wall and tower2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 320
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a92cef58c850e60800000000000000
+      internalID: 7927897226188331648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32Castle wall and tower2_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6421cd0e79e261190800000000000000
+      internalID: -7992149258874908090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

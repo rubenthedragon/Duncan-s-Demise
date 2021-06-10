@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 5c0ad5336aa549a45a2c0bc563383385
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1138861614522644962
+    second: duncan all sprites_0
+  - first:
+      213: 5071821326145395924
+    second: duncan all sprites_1
+  - first:
+      213: 7114379003705705554
+    second: duncan all sprites_2
+  - first:
+      213: 9109863323576203537
+    second: duncan all sprites_3
+  - first:
+      213: -8025458267912513709
+    second: duncan all sprites_4
+  - first:
+      213: 5229423871411797841
+    second: duncan all sprites_5
+  - first:
+      213: 5417472307192145279
+    second: duncan all sprites_6
+  - first:
+      213: 5009798818153516612
+    second: duncan all sprites_7
+  - first:
+      213: -6712426953023894173
+    second: duncan all sprites_8
+  - first:
+      213: 5218247805959187304
+    second: duncan all sprites_9
+  - first:
+      213: 7576082295966032962
+    second: duncan all sprites_10
+  - first:
+      213: 7765238179150306189
+    second: duncan all sprites_11
+  - first:
+      213: 6008047612135592327
+    second: Duncan_0
+  - first:
+      213: -1874302050909351922
+    second: Duncan_1
+  - first:
+      213: -7964499846571493420
+    second: Duncan_2
+  - first:
+      213: -1241660428322842051
+    second: Duncan_3
+  - first:
+      213: -2977969989479900090
+    second: Duncan_4
+  - first:
+      213: -2796353651050758348
+    second: Duncan_5
+  - first:
+      213: 6198964446189920428
+    second: Duncan_6
+  - first:
+      213: 996483998044124089
+    second: Duncan_7
+  - first:
+      213: -9064972383776960873
+    second: Duncan_8
+  - first:
+      213: 19073844534861567
+    second: Duncan_9
+  - first:
+      213: -6652969161658865914
+    second: Duncan_10
+  - first:
+      213: -2077834036127705571
+    second: Duncan_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Duncan_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781d9f2a87fd06350800000000000000
+      internalID: 6008047612135592327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duncan_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0013c517342df5e0800000000000000
+      internalID: -1874302050909351922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duncan_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 3
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7f3775699687190800000000000000
+      internalID: -7964499846571493420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duncan_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a58264b6cb4cee0800000000000000
+      internalID: -1241660428322842051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duncan_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cd64192102ca6d0800000000000000
+      internalID: -2977969989479900090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duncan_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 3
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fb0ca8b2b5139d0800000000000000
+      internalID: -2796353651050758348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duncan_6
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 4
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca02d6ef155270650800000000000000
+      internalID: 6198964446189920428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duncan_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 5
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3f7c7aae834dd00800000000000000
+      internalID: 996483998044124089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duncan_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 4
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e8f3e25afb23280800000000000000
+      internalID: -9064972383776960873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duncan_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe50008f83c34000800000000000000
+      internalID: 19073844534861567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duncan_10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 4
+        width: 13
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607e1b1ebc7eba3a0800000000000000
+      internalID: -6652969161658865914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duncan_11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d165466f3fc0a23e0800000000000000
+      internalID: -2077834036127705571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

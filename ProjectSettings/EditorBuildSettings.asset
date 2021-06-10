@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 71d840195a9aaa444952ba9509969ad9
+  - enabled: 1
+    path: Assets/Scenes/Demo.unity
+    guid: 152906a0d422256499ddd89762f2ef97
+  - enabled: 1
+    path: Assets/Scenes/World.unity
+    guid: 6de1c5477bfd4714badf9e094d041d0b
+  - enabled: 1
+    path: Assets/Scenes/MarketPlace.unity
+    guid: 45c5627ae89939043bd9613135c69abb
+  - enabled: 1
+    path: Assets/Scenes/TutorialArea.unity
+    guid: 34020a4bf759fce4887fe7d4ae66c9d1
+  - enabled: 1
+    path: Assets/Scenes/CastleGate.unity
+    guid: 06178551e9e0a6f448fb3a7174767677
+  - enabled: 1
+    path: Assets/Scenes/ResidentialArea.unity
+    guid: 71016ba009b0f9647aec512aa4a36a26
+  - enabled: 1
+    path: Assets/Scenes/PrisonEscape.unity
+    guid: 4913e76cd63967545b7a35ae355f8e50
+  - enabled: 1
+    path: Assets/Scenes/Indoor/EntityCave.unity
+    guid: 4969ca403e6de924baa6943bfcaab4ef
+  - enabled: 1
+    path: Assets/Scenes/Indoor/ThroneRoom.unity
+    guid: cd1c2ec58bc47a74e86c7204d42fe47e
+  - enabled: 1
+    path: Assets/Scenes/Indoor/GuardedThroneRoom.unity
+    guid: 7a72cf9dc4d50e34c9cd0e07c279f548
+  - enabled: 1
+    path: Assets/Scenes/Indoor/Dungeons/Jail.unity
+    guid: 7ea2f670c96ff2b4898bf2c3e8d6aa33
+  - enabled: 1
+    path: Assets/Scenes/Indoor/Dungeons/TombOfEternalNights.unity
+    guid: 1b016b10d3991234aad40a79fd3f8aad
+  - enabled: 1
+    path: Assets/Scenes/Indoor/Dungeons/Vault.unity
+    guid: 3e04f1fcaa1b40d42abef473398e4b59
+  - enabled: 1
+    path: Assets/Scenes/Indoor/EntityArena.unity
+    guid: ec89688116851694fb91fb9e31a85c9b
+  - enabled: 1
+    path: Assets/Scenes/MarketPlaceFinal.unity
+    guid: 67ff70f800dd7574f9154e3ab9943349
+  - enabled: 1
+    path: Assets/Scenes/EndCredits.unity
+    guid: 6042156bbe8a60c42803b6b8baf9a647
+  - enabled: 1
+    path: Assets/Scenes/Supernova.unity
+    guid: 589b455bb3dc85c4eaeb90578c5a68cd
+  m_configObjects: {}

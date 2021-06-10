@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: d3f0f8b85a5824b49bcf831d273b479c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6748425975485467581
+    second: Entity_Slash_Attack_0
+  - first:
+      213: 5314092450636663805
+    second: Entity_Slash_Attack_1
+  - first:
+      213: -5430966573109746314
+    second: Entity_Slash_Attack_2
+  - first:
+      213: -7769728889966417747
+    second: Entity_Slash_Attack_3
+  - first:
+      213: -7135852499589045991
+    second: Entity_Slash_Attack_4
+  - first:
+      213: 2848254361793687133
+    second: Entity_Slash_Attack_5
+  - first:
+      213: -4838129049611475521
+    second: Entity_Slash_Attack_6
+  - first:
+      213: -4669892159492450044
+    second: Entity_Slash_Attack_7
+  - first:
+      213: 9160315406251999724
+    second: Entity_Slash_Attack_8
+  - first:
+      213: -2200719332562801811
+    second: Entity_Slash_Attack_9
+  - first:
+      213: -1105109890354678716
+    second: Entity_Slash_Attack_10
+  - first:
+      213: -881476076314030903
+    second: Entity_Slash_Attack_0
+  - first:
+      213: -5924582560355765031
+    second: Entity_Slash_Attack_1
+  - first:
+      213: -1078318509441361064
+    second: Entity_Slash_Attack_2
+  - first:
+      213: 6137316055436019524
+    second: Entity_Slash_Attack_3
+  - first:
+      213: -3087755627899129577
+    second: Entity_Slash_Attack_4
+  - first:
+      213: -7557053364783674344
+    second: Entity_Slash_Attack_5
+  - first:
+      213: 4335083648313291480
+    second: Entity_Slash_Attack_6
+  - first:
+      213: 7218356037264316342
+    second: Entity_Slash_Attack_7
+  - first:
+      213: 6013773181629716463
+    second: Entity_Slash_Attack_8
+  - first:
+      213: 970874257216018213
+    second: Entity_Slash_Attack_9
+  - first:
+      213: -5073991230171529410
+    second: Entity_Slash_Attack_10
+  - first:
+      213: -2786060030910508745
+    second: Entity_Slash_Attack_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Entity_Slash_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: 8}
+        - {x: 15, y: -6}
+        - {x: 7, y: -11}
+        - {x: 8, y: -29}
+        - {x: -8, y: -29}
+        - {x: -10, y: -20}
+        - {x: -25, y: -13}
+        - {x: -20, y: -4}
+        - {x: -15, y: -3}
+        - {x: -15, y: 8}
+        - {x: -14, y: 15}
+        - {x: -7, y: 29}
+        - {x: 8, y: 29}
+        - {x: 21, y: 26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc0c49cd2e54c3f0800000000000000
+      internalID: -881476076314030903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entity_Slash_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -30}
+        - {x: -8, y: -17}
+        - {x: -19, y: -17}
+        - {x: -26, y: -10}
+        - {x: -13, y: 0}
+        - {x: -16, y: 10}
+        - {x: -9, y: 28}
+        - {x: 10, y: 28}
+        - {x: 22, y: 22}
+        - {x: 25, y: 3}
+        - {x: 16, y: -7}
+        - {x: 9.352005, y: -9.583994}
+        - {x: 9, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d435871d87a7cda0800000000000000
+      internalID: -5924582560355765031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entity_Slash_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 19, y: -11}
+        - {x: 8, y: -10}
+        - {x: 9, y: -30}
+        - {x: -8, y: -30}
+        - {x: -7, y: -21}
+        - {x: -25, y: -12}
+        - {x: -20, y: -4}
+        - {x: -13, y: 2}
+        - {x: -15, y: 12}
+        - {x: -8, y: 28}
+        - {x: 9, y: 28}
+        - {x: 18, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bd402670b0901f0800000000000000
+      internalID: -1078318509441361064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entity_Slash_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -29}
+        - {x: -8, y: -7}
+        - {x: -15, y: -7}
+        - {x: -20, y: 28}
+        - {x: 2, y: 30}
+        - {x: 9, y: 28}
+        - {x: 13, y: 23}
+        - {x: 17, y: 8}
+        - {x: 17, y: -3}
+        - {x: 25, y: -8}
+        - {x: 26, y: -12}
+        - {x: 22, y: -16}
+        - {x: 13, y: -17}
+        - {x: 8, y: -18}
+        - {x: 10, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447c09e7f602c2550800000000000000
+      internalID: 6137316055436019524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entity_Slash_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -29}
+        - {x: -7, y: -9}
+        - {x: -13, y: -8}
+        - {x: -20, y: 0}
+        - {x: -20, y: 11}
+        - {x: -12, y: 24}
+        - {x: -9, y: 29}
+        - {x: 5, y: 30}
+        - {x: 13, y: 23}
+        - {x: 16, y: 10}
+        - {x: 14, y: 3}
+        - {x: 23, y: -5}
+        - {x: 26, y: -13}
+        - {x: 8, y: -19}
+        - {x: 10, y: -29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711fbd5bd961625d0800000000000000
+      internalID: -3087755627899129577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entity_Slash_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 10, y: -16}
+        - {x: 9, y: -30}
+        - {x: -8, y: -30}
+        - {x: -7, y: -16}
+        - {x: -20, y: -7}
+        - {x: -16, y: 11}
+        - {x: -8, y: 29}
+        - {x: 8, y: 29}
+        - {x: 16, y: 14}
+        - {x: 16, y: 6}
+        - {x: 13, y: 3}
+        - {x: 19, y: -3}
+        - {x: 26, y: -11}
+        - {x: 20, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c0663f004ff1790800000000000000
+      internalID: -7557053364783674344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entity_Slash_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -30}
+        - {x: -4, y: -13}
+        - {x: -20, y: -25}
+        - {x: -27, y: -18}
+        - {x: -27, y: -13}
+        - {x: -10, y: -4}
+        - {x: -9, y: 12}
+        - {x: -2, y: 28}
+        - {x: 2, y: 28}
+        - {x: 8, y: 6}
+        - {x: 17, y: -1}
+        - {x: 15, y: -15}
+        - {x: 5, y: -11}
+        - {x: 8, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d271512c9f492c30800000000000000
+      internalID: 4335083648313291480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entity_Slash_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 20, y: 3}
+        - {x: 6, y: -3}
+        - {x: 6, y: -30}
+        - {x: -3, y: -30}
+        - {x: -4, y: -12}
+        - {x: -21, y: -24}
+        - {x: -28, y: -16}
+        - {x: -24, y: -11}
+        - {x: -9, y: -4}
+        - {x: -11, y: 6}
+        - {x: -3, y: 29}
+        - {x: 2, y: 28}
+        - {x: 7, y: 9}
+        - {x: 16, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b79f674290cc2460800000000000000
+      internalID: 7218356037264316342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entity_Slash_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: -30}
+        - {x: -6, y: -12}
+        - {x: -20, y: -25}
+        - {x: -28, y: -14}
+        - {x: -10, y: -4}
+        - {x: -10, y: 7}
+        - {x: -3, y: 29}
+        - {x: 3, y: 28}
+        - {x: 18, y: 20}
+        - {x: 17, y: 10}
+        - {x: 8, y: 5}
+        - {x: 3, y: -13}
+        - {x: 6, y: -20}
+        - {x: 7, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe75fcaa8d6357350800000000000000
+      internalID: 6013773181629716463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entity_Slash_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 17, y: -23}
+        - {x: 6, y: -12}
+        - {x: 4, y: -29}
+        - {x: -8, y: -29}
+        - {x: -3, y: -22}
+        - {x: -3, y: -13}
+        - {x: -15, y: -11}
+        - {x: -17, y: 2}
+        - {x: -6, y: 5}
+        - {x: -3, y: 29}
+        - {x: 4, y: 28}
+        - {x: 10, y: 12}
+        - {x: 10, y: -4}
+        - {x: 27, y: -14}
+        - {x: 24, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5279ee63efc397d00800000000000000
+      internalID: 970874257216018213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entity_Slash_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: -30}
+        - {x: -2, y: -16}
+        - {x: -6, y: -3}
+        - {x: -15, y: -6}
+        - {x: -16, y: 9}
+        - {x: -6, y: 11}
+        - {x: -3, y: 21}
+        - {x: 3, y: 21}
+        - {x: 12, y: 12}
+        - {x: 10, y: -4}
+        - {x: 27, y: -14}
+        - {x: 28, y: -19}
+        - {x: 22, y: -26}
+        - {x: 6, y: -11}
+        - {x: 4, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fbd2cfbdf8599b0800000000000000
+      internalID: -5073991230171529410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entity_Slash_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -12}
+        - {x: 5, y: -30}
+        - {x: -6, y: -30}
+        - {x: -1, y: -14}
+        - {x: -8, y: 3}
+        - {x: -16, y: 9}
+        - {x: -15, y: 18}
+        - {x: 2, y: 22}
+        - {x: 8, y: 13}
+        - {x: 11, y: 4}
+        - {x: 10, y: -4}
+        - {x: 28, y: -14}
+        - {x: 28, y: -18}
+        - {x: 22, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7315aaeb92de559d0800000000000000
+      internalID: -2786060030910508745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

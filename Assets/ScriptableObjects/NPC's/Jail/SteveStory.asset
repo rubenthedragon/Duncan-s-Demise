@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0001ef6accf074ea80492027b6372d, type: 3}
+  m_Name: SteveStory
+  m_EditorClassIdentifier: 
+  <dialog>k__BackingField:
+  - <Name>k__BackingField: Steve's remains
+    <Line>k__BackingField: <This must be Steve, you can see it by the emblem of Duncan's
+      Personal Guard lying within his remains>
+  - <Name>k__BackingField: Steve's remains
+    <Line>k__BackingField: <Steve was the only one who stood up to Timothy when he
+      took your rightful throne>
+  - <Name>k__BackingField: Steve's remains
+    <Line>k__BackingField: <It didn't end well for him, clearly>
+  <Response>k__BackingField: []

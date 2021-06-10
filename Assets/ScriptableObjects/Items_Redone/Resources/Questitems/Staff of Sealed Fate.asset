@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4223145933f2154985344f4cbd9cb6f, type: 3}
+  m_Name: Staff of Sealed Fate
+  m_EditorClassIdentifier: 
+  Id: 86
+  uiDisplay: {fileID: 21300000, guid: 39ea61c71736c6f239f639b30fd9c0d7, type: 3}
+  type: 4
+  description: The well known Staff of Sealed Fate, used by wizards with great power
+    to imprison an evil being. Sadly all of the power seems to have faded away.
+  stackSize: 1
+  weight: 0
+  baseValue: 0
+  value: 0
+  buffs: []
+  rarity: 0

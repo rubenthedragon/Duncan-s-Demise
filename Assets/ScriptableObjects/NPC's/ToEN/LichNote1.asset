@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0001ef6accf074ea80492027b6372d, type: 3}
+  m_Name: LichNote1
+  m_EditorClassIdentifier: 
+  <dialog>k__BackingField:
+  - <Name>k__BackingField: Note 1/6
+    <Line>k__BackingField: '"438, 15-1"'
+  - <Name>k__BackingField: Note 1/6
+    <Line>k__BackingField: '"A few weeks ago, the third war took everything from
+      me. My home: burned down, the only ones I cared about: humiliated, raped and
+      executed. But most importantly they have killed my beautiful Adelina..."'
+  - <Name>k__BackingField: Note 1/6
+    <Line>k__BackingField: '"I managed to flee and survive. However, ever since that
+      day I keep seeing my Adelina in my dreams. She comes in my thoughts every second
+      of the day."'
+  - <Name>k__BackingField: Note 1/6
+    <Line>k__BackingField: "\"I miss her so much. I can\u2019t sleep, I can\u2019t
+      eat. Life has been unbearable ever since. I only have two options: to end it
+      now, or to bring her back.\""
+  <Response>k__BackingField: []

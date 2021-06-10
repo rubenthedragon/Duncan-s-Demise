@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0001ef6accf074ea80492027b6372d, type: 3}
+  m_Name: 1Start
+  m_EditorClassIdentifier: 
+  <dialog>k__BackingField:
+  - <Name>k__BackingField: Henry
+    <Line>k__BackingField: Hello there good sir, I can see you are interested in
+      quality armor.
+  - <Name>k__BackingField: Henry
+    <Line>k__BackingField: Would you like to know the locations of the 5 pieces of
+      armor blessed by the divines?
+  <Response>k__BackingField:
+  - <Text>k__BackingField: The first piece.
+    <Dialog>k__BackingField: {fileID: 11400000, guid: d3d24b9aa3ac557489ccfabb1792deab, type: 2}
+    <Quest>k__BackingField: {fileID: 0}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: 
+  - <Text>k__BackingField: The second piece.
+    <Dialog>k__BackingField: {fileID: 11400000, guid: 3406b04d7d3a0c94893abcd381b020b1, type: 2}
+    <Quest>k__BackingField: {fileID: 0}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: 
+  - <Text>k__BackingField: Another piece.
+    <Dialog>k__BackingField: {fileID: 11400000, guid: 9b70284c5ee8cf940a7061a316370989, type: 2}
+    <Quest>k__BackingField: {fileID: 0}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: 

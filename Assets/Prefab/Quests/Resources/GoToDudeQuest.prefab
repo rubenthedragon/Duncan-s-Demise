@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7990222068848605698
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3580540935475234532}
+  - component: {fileID: 6620808155198063012}
+  m_Layer: 0
+  m_Name: GoToDudeQuest
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3580540935475234532
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7990222068848605698}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.9693686, y: 0.7765219, z: -0.32182825}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6620808155198063012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7990222068848605698}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a60c7355d198e324e99f55f1c63a7d29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Go to my friend
+  <Description>k__BackingField: something
+  <GoldReward>k__BackingField: 15
+  <ExpReward>k__BackingField: 100
+  <ItemReward>k__BackingField: {fileID: 11400000, guid: 17fa2a5f74a25cd40b918231c9e03265, type: 2}
+  <ItemRewardAmount>k__BackingField: 1
+  <currentGoalAmount>k__BackingField: 0
+  <requiredGoalAmount>k__BackingField: 0
+  <goalDescription>k__BackingField: Go to the boy
+  handInSound: {fileID: 8300000, guid: 23d46ef2252744148a0ab925aea1514a, type: 3}

@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: 3ebd8580a816c884aa7f78e11faf8d8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 739460332171260805
+    second: BowGoblinAttack_0
+  - first:
+      213: 2208458256072092338
+    second: BowGoblinAttack_1
+  - first:
+      213: -7280564998402123067
+    second: BowGoblinAttack_2
+  - first:
+      213: 9110389909231129079
+    second: BowGoblinAttack_3
+  - first:
+      213: 8643509528213293956
+    second: BowGoblinAttack_4
+  - first:
+      213: 7631238410432496967
+    second: BowGoblinAttack_5
+  - first:
+      213: 8876745585506870353
+    second: BowGoblinAttack_6
+  - first:
+      213: -1869044347842838845
+    second: BowGoblinAttack_7
+  - first:
+      213: -3672117751965618093
+    second: BowGoblinAttack_8
+  - first:
+      213: -6404559230570651568
+    second: BowGoblinAttack_9
+  - first:
+      213: 2499069571054507088
+    second: BowGoblinAttack_10
+  - first:
+      213: -3372260707231193664
+    second: BowGoblinAttack_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BowGoblinAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.953251, y: -13.549252}
+        - {x: -6.751251, y: -4.383993}
+        - {x: -8.25375, y: -0.32723808}
+        - {x: -7.3989983, y: 3.729515}
+        - {x: -5.3989983, y: 5.8797646}
+        - {x: -7.3989983, y: 8.879765}
+        - {x: -7.3989983, y: 13.879765}
+        - {x: 9.601006, y: 13.879765}
+        - {x: 6.6010056, y: 3.729515}
+        - {x: 5.803009, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5837f881147134a00800000000000000
+      internalID: 739460332171260805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowGoblinAttack_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.502495, y: -14}
+        - {x: -7.05175, y: -2.5809908}
+        - {x: -8.450745, y: 3.4290142}
+        - {x: -6.4507446, y: 5.5792522}
+        - {x: -8.450745, y: 13.579252}
+        - {x: 8.549255, y: 13.579252}
+        - {x: 7.2020035, y: 0.27376175}
+        - {x: 5.202011, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baa47e351506ae10800000000000000
+      internalID: 2208458256072092338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowGoblinAttack_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.201996, y: -14}
+        - {x: -8.600998, y: 4.330513}
+        - {x: -8.600998, y: 14}
+        - {x: 8.399002, y: 14}
+        - {x: 9.399002, y: 4.330513}
+        - {x: 5.6527557, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca591245bc36fa90800000000000000
+      internalID: -7280564998402123067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowGoblinAttack_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.802994, y: -14}
+        - {x: -8.051743, y: -1.641386}
+        - {x: -8.399002, y: 6.866123}
+        - {x: -8.699493, y: 14}
+        - {x: 8.300507, y: 14}
+        - {x: 8.300507, y: 6.373623}
+        - {x: 5.9532623, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f156018a5b9e6e70800000000000000
+      internalID: 9110389909231129079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowGoblinAttack_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7.005005, y: -14}
+        - {x: -9.751251, y: 13.579264}
+        - {x: 7.248749, y: 13.579264}
+        - {x: 9.300507, y: 2.677763}
+        - {x: 6.8964844, y: -4.383994}
+        - {x: 5.953247, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b8bd1ee1ae3f770800000000000000
+      internalID: 8643509528213293956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowGoblinAttack_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6.006714, y: -14}
+        - {x: -7.751251, y: 5.4290123}
+        - {x: -9.751251, y: 8.429012}
+        - {x: -9.751251, y: 13.429012}
+        - {x: 8.953247, y: 13.579262}
+        - {x: 9.046753, y: 6.1335144}
+        - {x: 11.300507, y: -1.2287436}
+        - {x: 6.5492554, y: -1.9799938}
+        - {x: 6.704529, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745452af6ea97e960800000000000000
+      internalID: 7631238410432496967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowGoblinAttack_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4.1035156, y: -14}
+        - {x: -5, y: 3.7295132}
+        - {x: -5, y: 9.879763}
+        - {x: -2, y: 12.879763}
+        - {x: 4, y: 11.879763}
+        - {x: 4, y: 3.8797626}
+        - {x: 7.201996, y: 0.12350941}
+        - {x: 6.3005066, y: -3.332244}
+        - {x: 3.2019958, y: -4.684494}
+        - {x: 1.6527405, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15467a93419803b70800000000000000
+      internalID: 8876745585506870353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowGoblinAttack_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2.5025024, y: -14}
+        - {x: -4.103485, y: -14}
+        - {x: -5, y: 4.030014}
+        - {x: -5, y: 10.030014}
+        - {x: -2, y: 13.030014}
+        - {x: 2, y: 13.030014}
+        - {x: 4, y: 11.030014}
+        - {x: 4, y: 5.030014}
+        - {x: 8.601013, y: 0.7245102}
+        - {x: 8.751251, y: -4.5342445}
+        - {x: 3.3522644, y: -2.8814926}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce30697112df06e0800000000000000
+      internalID: -1869044347842838845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowGoblinAttack_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4.253723, y: -14}
+        - {x: -5.300476, y: 3.8797646}
+        - {x: -5.300476, y: 10.030014}
+        - {x: -2.300476, y: 13.030014}
+        - {x: 1.6995239, y: 13.030014}
+        - {x: 3.699524, y: 11.030014}
+        - {x: 3.699524, y: 5.030014}
+        - {x: 8.150269, y: 1.1752625}
+        - {x: 8.601013, y: -3.9332438}
+        - {x: 3.1502686, y: -2.5809927}
+        - {x: 1.2020264, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350feac3c540a0dc0800000000000000
+      internalID: -3672117751965618093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowGoblinAttack_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1.8030396, y: -14}
+        - {x: -3.652771, y: -3.1819944}
+        - {x: -6.7512817, y: -0.9282427}
+        - {x: -4.300537, y: 4.7812634}
+        - {x: -4.300537, y: 11.781263}
+        - {x: 1.6994629, y: 13.781263}
+        - {x: 4.699463, y: 10.781263}
+        - {x: 4.699463, y: 4.631014}
+        - {x: 4.253723, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05023e6005f6e17a0800000000000000
+      internalID: -6404559230570651568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowGoblinAttack_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2.2537231, y: -14}
+        - {x: -3.2019653, y: -2.28049}
+        - {x: -8.756226, y: -3.632742}
+        - {x: -7.5491943, y: 2.377266}
+        - {x: -4.4507446, y: 4.8797646}
+        - {x: -4.4507446, y: 10.879765}
+        - {x: -2.4507446, y: 12.879765}
+        - {x: 1.5492554, y: 12.879765}
+        - {x: 4.5492554, y: 9.879765}
+        - {x: 4.5492554, y: 3.5792656}
+        - {x: 4.253723, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05411b3c88a7ea220800000000000000
+      internalID: 2499069571054507088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowGoblinAttack_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2.2537842, y: -12.647749}
+        - {x: -8.460754, y: -3.4824934}
+        - {x: -8, y: 4.030014}
+        - {x: -8, y: 4.030014}
+        - {x: -4, y: 5.1802635}
+        - {x: -4, y: 11.1802635}
+        - {x: -2, y: 13.1802635}
+        - {x: 2, y: 13.1802635}
+        - {x: 5, y: 10.1802635}
+        - {x: 5, y: 4.030014}
+        - {x: 4.4039917, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c52a77f0c25331d0800000000000000
+      internalID: -3372260707231193664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

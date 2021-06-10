@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 086a743cb3d3b4f4b840c730a95d0bba, type: 3}
+  m_Name: Slingshot
+  m_EditorClassIdentifier: 
+  Id: 12
+  uiDisplay: {fileID: 21300000, guid: f96faff888d022a458e307ca34672d70, type: 3}
+  type: 1
+  description: Goliath's favorite weapon.
+  stackSize: 1
+  weight: 1
+  baseValue: 5
+  value: 5
+  buffs: []
+  rarity: 0
+  combatItemObject: {fileID: -401682107004608707, guid: 7f592fefd98d05c4aad1d5a9fdba3778, type: 3}
+  MinDamage: 2
+  MaxDamage: 4
+  initCombatItemObject: {fileID: 0}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4cf105ab0acd644c96e4dc41739bd8c, type: 3}
+  m_Name: Knight's Gloves
+  m_EditorClassIdentifier: 
+  Id: 19
+  uiDisplay: {fileID: 21300000, guid: 58625387283db784f8d6d432acd94ca8, type: 3}
+  type: 2
+  description: Gloves plated with armor.
+  stackSize: 1
+  weight: 2
+  baseValue: 2
+  value: 2
+  buffs:
+  - stat: 5
+    Value: 40
+    min: 0
+    max: 0
+  rarity: 0
+  armorSubType: 3

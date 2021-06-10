@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 086a743cb3d3b4f4b840c730a95d0bba, type: 3}
+  m_Name: Dagger
+  m_EditorClassIdentifier: 
+  Id: 2
+  uiDisplay: {fileID: 21300000, guid: 197dd3ec540cf2e4092c72782d593997, type: 3}
+  type: 1
+  description: Small but effective.
+  stackSize: 1
+  weight: 1
+  baseValue: 2
+  value: 2
+  buffs: []
+  rarity: 0
+  combatItemObject: {fileID: 6008169534867105771, guid: d33ff1e95b9466ab592c1966946c94ee, type: 3}
+  MinDamage: 3
+  MaxDamage: 6
+  initCombatItemObject: {fileID: 0}

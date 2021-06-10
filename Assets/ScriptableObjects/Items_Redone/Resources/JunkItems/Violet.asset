@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efe31afff7631334c97b462ab46eb368, type: 3}
+  m_Name: Violet
+  m_EditorClassIdentifier: 
+  Id: 82
+  uiDisplay: {fileID: 21300000, guid: d0be5a0858d04ff43a3c87345869bba6, type: 3}
+  type: 0
+  description: A beautiful flower.
+  stackSize: 99
+  weight: 0
+  baseValue: 3
+  value: 0
+  buffs: []
+  rarity: 0

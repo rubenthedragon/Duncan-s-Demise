@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0001ef6accf074ea80492027b6372d, type: 3}
+  m_Name: 4EntityConversation
+  m_EditorClassIdentifier: 
+  <dialog>k__BackingField:
+  - <Name>k__BackingField: The Entity
+    <Line>k__BackingField: I am a hero in the eyes of the people, it is because of
+      me the tyranny of king Timothy has ended.
+  - <Name>k__BackingField: The Entity
+    <Line>k__BackingField: The reason he wants you to get rid of me is to have absolute
+      power over everyone.
+  - <Name>k__BackingField: The Entity
+    <Line>k__BackingField: However, he sent you here to die. He knew no one ever
+      came back alive from this place. You're the only one with a claim on the throne,
+      as you were the rightful heir to the throne.
+  - <Name>k__BackingField: The Entity
+    <Line>k__BackingField: He wants all the power for himself and you know that just
+      as well as I do.
+  - <Name>k__BackingField: The Entity
+    <Line>k__BackingField: With my power and your legitimacy, we can give you back
+      your kingdom and bring back happiness to the people.
+  - <Name>k__BackingField: The Entity
+    <Line>k__BackingField: However, I need your help first, while I am locked in
+      these walls I can't do much.
+  - <Name>k__BackingField: The Entity
+    <Line>k__BackingField: What do you say?
+  <Response>k__BackingField:
+  - <Text>k__BackingField: I will help you.
+    <Dialog>k__BackingField: {fileID: 11400000, guid: e3bf9a75dc20262478b9a1e7e114f1d5, type: 2}
+    <Quest>k__BackingField: {fileID: 0}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+  - <Text>k__BackingField: You lie, I will destroy you!
+    <Dialog>k__BackingField: {fileID: 11400000, guid: 132bd50ec0f20f44cbe3369e1836218c, type: 2}
+    <Quest>k__BackingField: {fileID: 0}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0

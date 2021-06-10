@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: e3b186667544f3d4ebafe0c8897280b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4595621095415242872
+    second: GoblinAttack_0
+  - first:
+      213: 6009215467603149564
+    second: GoblinAttack_1
+  - first:
+      213: -8281098661829765949
+    second: GoblinAttack_2
+  - first:
+      213: -5892475939613967414
+    second: GoblinAttack_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GoblinAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2.0366325, y: -10.152429}
+        - {x: -2.8012257, y: -4.2217665}
+        - {x: -6.7602825, y: -3.038867}
+        - {x: -6.5401535, y: 0.47847652}
+        - {x: -4.1379147, y: 10.470276}
+        - {x: -1.9989738, y: 12.840458}
+        - {x: 2.1487236, y: 12.866846}
+        - {x: 5.096287, y: 9.857626}
+        - {x: 5.0533676, y: -3.7645226}
+        - {x: 1.6988716, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f9b7d56f21930c0800000000000000
+      internalID: -4595621095415242872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinAttack_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0.9992142, y: -14}
+        - {x: -3.2666473, y: -13.300072}
+        - {x: -4.895767, y: 10.275124}
+        - {x: -0.009971619, y: 13.017584}
+        - {x: 3.8412018, y: 10.284046}
+        - {x: 4.742943, y: 0.07166004}
+        - {x: 6.9188614, y: -0.010178566}
+        - {x: 7.0904083, y: -3.3211927}
+        - {x: 2.1706467, y: -4.4256287}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2c44d21a5056350800000000000000
+      internalID: 6009215467603149564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinAttack_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4.451706, y: -13.881463}
+        - {x: -5.854126, y: -10.198559}
+        - {x: -7.1171875, y: 2.068987}
+        - {x: -7.9838715, y: 13.805128}
+        - {x: 9.072952, y: 13.901384}
+        - {x: 6.228775, y: 4.7271805}
+        - {x: 9.912857, y: -5.0140705}
+        - {x: 3.9263153, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c49ca764a0a31d80800000000000000
+      internalID: -8281098661829765949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoblinAttack_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4.229599, y: -14}
+        - {x: -10.167755, y: -3.5861502}
+        - {x: -7.8684387, y: 3.6355972}
+        - {x: -9.522476, y: 13.684429}
+        - {x: 1.8343048, y: 14}
+        - {x: 8.175613, y: 12.692013}
+        - {x: 8.258316, y: -0.8504524}
+        - {x: 5.5291595, y: -13.52429}
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbf5c34a58b93ea0800000000000000
+      internalID: -5892475939613967414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0001ef6accf074ea80492027b6372d, type: 3}
+  m_Name: RandomVillager1
+  m_EditorClassIdentifier: 
+  <dialog>k__BackingField:
+  - <Name>k__BackingField: Duncan
+    <Line>k__BackingField: Hey, what is going on here?
+  - <Name>k__BackingField: Villager
+    <Line>k__BackingField: Please hear my prayer my lord and savoir.
+  - <Name>k__BackingField: Villager
+    <Line>k__BackingField: Please hear my prayer my lord and savoir.
+  - <Name>k__BackingField: Villager
+    <Line>k__BackingField: Please hear...
+  <Response>k__BackingField: []

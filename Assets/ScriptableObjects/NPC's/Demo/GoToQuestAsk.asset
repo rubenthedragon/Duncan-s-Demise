@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0001ef6accf074ea80492027b6372d, type: 3}
+  m_Name: GoToQuestAsk
+  m_EditorClassIdentifier: 
+  <dialog>k__BackingField:
+  - <Name>k__BackingField: Harold McBride
+    <Line>k__BackingField: Can you please help my friend?
+  <Response>k__BackingField:
+  - <Text>k__BackingField: Yes
+    <Dialog>k__BackingField: {fileID: 11400000, guid: 36c5539a89e0aa84b8e95eeb24b7e18c, type: 2}
+    <Quest>k__BackingField: {fileID: 6620808155198063012, guid: bdc5e5ecd3e935f43bf5c7fce08bb9e8, type: 3}
+    <OpenShop>k__BackingField: 0
+  - <Text>k__BackingField: No
+    <Dialog>k__BackingField: {fileID: 11400000, guid: e2697e5614e1c77498ac3ce837b8a65d, type: 2}
+    <Quest>k__BackingField: {fileID: 0}
+    <OpenShop>k__BackingField: 0

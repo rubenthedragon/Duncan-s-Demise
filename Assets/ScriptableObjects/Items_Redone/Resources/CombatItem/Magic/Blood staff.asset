@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 086a743cb3d3b4f4b840c730a95d0bba, type: 3}
+  m_Name: Blood Staff
+  m_EditorClassIdentifier: 
+  Id: 16
+  uiDisplay: {fileID: 21300000, guid: 354fb7088c1d32e4a826f85ffb272bd3, type: 3}
+  type: 1
+  description: For psychopaths.
+  stackSize: 1
+  weight: 8
+  baseValue: 300
+  value: 150
+  buffs: []
+  rarity: 0
+  combatItemObject: {fileID: 6008169534867105771, guid: 9b886028e52742447bdafe6f729454ad, type: 3}
+  MinDamage: 10
+  MaxDamage: 30
+  initCombatItemObject: {fileID: 0}

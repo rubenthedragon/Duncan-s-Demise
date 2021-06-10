@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0faf289faa3e05d47a8805f2f2b2c872, type: 3}
+  m_Name: Mana Potion
+  m_EditorClassIdentifier: 
+  Id: 94
+  uiDisplay: {fileID: 21300000, guid: b5244967085121549b415a00c02cb8b8, type: 3}
+  type: 3
+  description: A refreshing drink.
+  stackSize: 99
+  weight: 1
+  baseValue: 25
+  value: 10
+  buffs: []
+  rarity: 0
+  <ReplenishAmount>k__BackingField: 100
+  <drinkSound>k__BackingField: {fileID: 8300000, guid: b207f4998bb4bc54b88f4c0a14d5f99e, type: 3}

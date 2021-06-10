@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0001ef6accf074ea80492027b6372d, type: 3}
+  m_Name: 8QuestAccept
+  m_EditorClassIdentifier: 
+  <dialog>k__BackingField:
+  - <Name>k__BackingField: Jordy
+    <Line>k__BackingField: Time for you to get out of here, before anyone finds out.
+  - <Name>k__BackingField: Jordy
+    <Line>k__BackingField: Use the key I just gave you to open up the prison. I will
+      stay hidden here.
+  <Response>k__BackingField:
+  - <Text>k__BackingField: Thanks, I won't forget this Jordy.
+    <Dialog>k__BackingField: {fileID: 0}
+    <Quest>k__BackingField: {fileID: 845239936518682856, guid: 66dc04636bd0a2747953b74bcceb881c, type: 3}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: 

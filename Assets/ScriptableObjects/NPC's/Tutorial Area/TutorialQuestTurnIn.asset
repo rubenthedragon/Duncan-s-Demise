@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0001ef6accf074ea80492027b6372d, type: 3}
+  m_Name: TutorialQuestTurnIn
+  m_EditorClassIdentifier: 
+  <dialog>k__BackingField:
+  - <Name>k__BackingField: Sgt. Foster
+    <Line>k__BackingField: Very well done. You really showed those dummies who's
+      the boss!
+  - <Name>k__BackingField: Sgt. Foster
+    <Line>k__BackingField: You can talk to me again if you need a few more tips.
+  - <Name>k__BackingField: Sgt. Foster
+    <Line>k__BackingField: Oh, and it seems like someone has an important message
+      for you at the gate, you should talk to him.
+  - <Name>k__BackingField: Sgt. Foster
+    <Line>k__BackingField: Hm I also lost my slingshot, it must be around here somewhere...
+  <Response>k__BackingField:
+  - <Text>k__BackingField: Alright, I will do that
+    <Dialog>k__BackingField: {fileID: 0}
+    <Quest>k__BackingField: {fileID: 7648272408558606484, guid: 595f32d3e4e49774a8f86fd618a85b14, type: 3}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: 

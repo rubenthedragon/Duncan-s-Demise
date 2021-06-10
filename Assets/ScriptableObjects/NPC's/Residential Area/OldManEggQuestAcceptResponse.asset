@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0001ef6accf074ea80492027b6372d, type: 3}
+  m_Name: OldManEggQuestAcceptResponse
+  m_EditorClassIdentifier: 
+  <dialog>k__BackingField:
+  - <Name>k__BackingField: Mark
+    <Line>k__BackingField: Sorry, that is not of your concern. However, if you do
+      help us we'll all pinch in, right?
+  - <Name>k__BackingField: Richard
+    <Line>k__BackingField: Yes... you may even take my son's helmet, as he is long
+      gone anyway... heheh.
+  - <Name>k__BackingField: Mark
+    <Line>k__BackingField: AHEM, yes, so what do say?
+  <Response>k__BackingField:
+  - <Text>k__BackingField: Alright I'll do it.
+    <Dialog>k__BackingField: {fileID: 0}
+    <Quest>k__BackingField: {fileID: 845239936518682856, guid: 8345ad5279df92d4f84e9925bd3cd003, type: 3}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: 
+  - <Text>k__BackingField: I'm going to skip on this.
+    <Dialog>k__BackingField: {fileID: 0}
+    <Quest>k__BackingField: {fileID: 0}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: 

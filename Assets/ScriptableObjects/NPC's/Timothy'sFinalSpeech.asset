@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0001ef6accf074ea80492027b6372d, type: 3}
+  m_Name: Timothy'sFinalSpeech
+  m_EditorClassIdentifier: 
+  <dialog>k__BackingField:
+  - <Name>k__BackingField: Timothy
+    <Line>k__BackingField: Duncan de Molay, once a proud defender of our kingdom,
+      prince and my brother. Our citizens looked up to you, our armies respected
+      you and I loved you.
+  - <Name>k__BackingField: Timothy
+    <Line>k__BackingField: Now, you are known by many other names... Murderer, traitor,
+      bringer of doom, liberator of monstrosities.
+  - <Name>k__BackingField: Timothy
+    <Line>k__BackingField: Our father saw the corruption in you long before me. It
+      is only thanks to him that I got the throne and not you. If it wasn't for him,
+      who knows what you would've done to our beautiful kingdom.
+  - <Name>k__BackingField: Timothy
+    <Line>k__BackingField: Our father had warned me about you, but I did not want
+      to believe it, so I gave you another chance. I wanted to be able to trust my
+      own brother. My worst mistake as king.
+  - <Name>k__BackingField: Timothy
+    <Line>k__BackingField: 'You have shown time and time again that you can''t be
+      trusted. First you leave the kingdom while we needed you the most, when our
+      father died as a hero in battle. Not long after, you free the most dangerous
+      monster on the planet: the Entity, trying to kill us all.'
+  - <Name>k__BackingField: Timothy
+    <Line>k__BackingField: It is because of this we will end you here and now, so
+      you can bring no more harm to our people.
+  - <Name>k__BackingField: Timothy
+    <Line>k__BackingField: May you suffer for eternity...
+  <Response>k__BackingField: []

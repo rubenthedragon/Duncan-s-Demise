@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0001ef6accf074ea80492027b6372d, type: 3}
+  m_Name: 1TimothyQuestTurnIn
+  m_EditorClassIdentifier: 
+  <dialog>k__BackingField:
+  - <Name>k__BackingField: King Timothy
+    <Line>k__BackingField: What took you so long?
+  - <Name>k__BackingField: Duncan
+    <Line>k__BackingField: I was doing my training, my apologies.
+  - <Name>k__BackingField: King Timothy
+    <Line>k__BackingField: Did the guard not tell you it was urgent?
+  <Response>k__BackingField:
+  - <Text>k__BackingField: He did, but I wanted to finish my training
+    <Dialog>k__BackingField: {fileID: 11400000, guid: ed6f0829067c5bb449eb971e2477e660, type: 2}
+    <Quest>k__BackingField: {fileID: 6620808155198063012, guid: c5d0d16ecaabb104b92dc3c653280aab, type: 3}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: 

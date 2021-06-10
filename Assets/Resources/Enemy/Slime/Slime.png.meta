@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 14608b9b2f54dae4fb79bf4e78bb5173
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7499619221918500907
+    second: GreenSlime_0
+  - first:
+      213: -590448118287248900
+    second: GreenSlime_1
+  - first:
+      213: 8402196371350135343
+    second: GreenSlime_2
+  - first:
+      213: -6812403811761475244
+    second: GreenSlime_3
+  - first:
+      213: 8798678231922511503
+    second: GreenSlime_4
+  - first:
+      213: 2616870070719580940
+    second: GreenSlime_5
+  - first:
+      213: -4791060987507776712
+    second: GreenSlime_6
+  - first:
+      213: -8603172019406737018
+    second: GreenSlime_7
+  - first:
+      213: 8094851757492182755
+    second: GreenSlime_8
+  - first:
+      213: 1716482015228993432
+    second: GreenSlime_9
+  - first:
+      213: 440734978823021610
+    second: GreenSlime_10
+  - first:
+      213: 8676588886384998731
+    second: GreenSlime_11
+  - first:
+      213: 5570651549518665010
+    second: GreenSlime_0
+  - first:
+      213: 654639981543147360
+    second: GreenSlime_1
+  - first:
+      213: 2653906376133697359
+    second: GreenSlime_2
+  - first:
+      213: -8284674086766019701
+    second: GreenSlime_3
+  - first:
+      213: -7525484217133424394
+    second: GreenSlime_4
+  - first:
+      213: 3607415442251422245
+    second: GreenSlime_5
+  - first:
+      213: 6219125325422236459
+    second: GreenSlime_6
+  - first:
+      213: 8397691708985850143
+    second: GreenSlime_7
+  - first:
+      213: -2289661277554253325
+    second: GreenSlime_8
+  - first:
+      213: 99381580934463253
+    second: GreenSlime_9
+  - first:
+      213: -3251161688634075525
+    second: GreenSlime_10
+  - first:
+      213: 2389734212054260114
+    second: GreenSlime_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreenSlime_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08283956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -32}
+        - {x: -7, y: -27}
+        - {x: -5, y: -21}
+        - {x: 4, y: -21}
+        - {x: 7, y: -27}
+        - {x: 6, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2351a88d11eee4d40800000000000000
+      internalID: 5570651549518665010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenSlime_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08283956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -32}
+        - {x: -7, y: -27}
+        - {x: -4, y: -21}
+        - {x: 2, y: -21}
+        - {x: 7, y: -28}
+        - {x: 5, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067c5a3489fb51900800000000000000
+      internalID: 654639981543147360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenSlime_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08283956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -32}
+        - {x: -7, y: -28}
+        - {x: -5, y: -23}
+        - {x: -2, y: -21}
+        - {x: 4, y: -21}
+        - {x: 7, y: -29}
+        - {x: 6, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fd790c9c194d420800000000000000
+      internalID: 2653906376133697359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenSlime_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08283956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -32}
+        - {x: -7, y: -28}
+        - {x: -3, y: -22}
+        - {x: 6, y: -23}
+        - {x: 7, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b7d6aefcce60d80800000000000000
+      internalID: -8284674086766019701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenSlime_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08283956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -32}
+        - {x: -7, y: -32}
+        - {x: -7, y: -23}
+        - {x: -3, y: -21}
+        - {x: 4, y: -21}
+        - {x: 6, y: -26}
+        - {x: 7, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f024fae9fb109790800000000000000
+      internalID: -7525484217133424394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenSlime_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08283956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -32}
+        - {x: -7, y: -30}
+        - {x: -7, y: -23}
+        - {x: -4, y: -21}
+        - {x: 4, y: -21}
+        - {x: 6, y: -23}
+        - {x: 6, y: -26}
+        - {x: 7, y: -28}
+        - {x: 6, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a97a85b3d101230800000000000000
+      internalID: 3607415442251422245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenSlime_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08283956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -32}
+        - {x: -5, y: -32}
+        - {x: -7, y: -29}
+        - {x: -7, y: -25}
+        - {x: -3, y: -22}
+        - {x: 2, y: -21}
+        - {x: 5, y: -23}
+        - {x: 5, y: -26}
+        - {x: 5, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b239d6b7885ce4650800000000000000
+      internalID: 6219125325422236459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenSlime_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08283956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -32}
+        - {x: -6, y: -29}
+        - {x: -6, y: -25}
+        - {x: -2, y: -21}
+        - {x: 2, y: -21}
+        - {x: 6, y: -26}
+        - {x: 6, y: -29}
+        - {x: 4, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19385fcd189a8470800000000000000
+      internalID: 8397691708985850143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenSlime_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08283956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -32}
+        - {x: -6, y: -29}
+        - {x: -6, y: -25}
+        - {x: -3, y: -21}
+        - {x: 2, y: -21}
+        - {x: 5, y: -24}
+        - {x: 6, y: -26}
+        - {x: 6, y: -29}
+        - {x: 5, y: -31}
+        - {x: 3, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1696ff23d7930e0800000000000000
+      internalID: -2289661277554253325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenSlime_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08283956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -32}
+        - {x: -3, y: -32}
+        - {x: -5, y: -30}
+        - {x: -5, y: -26}
+        - {x: -1, y: -21}
+        - {x: 3, y: -21}
+        - {x: 6, y: -25}
+        - {x: 6, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fb0d47503116100800000000000000
+      internalID: 99381580934463253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenSlime_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08283956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -32}
+        - {x: -5, y: -30}
+        - {x: -5, y: -27}
+        - {x: -1, y: -22}
+        - {x: 3, y: -22}
+        - {x: 7, y: -26}
+        - {x: 6, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b765b996bad81e2d0800000000000000
+      internalID: -3251161688634075525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenSlime_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08283956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -32}
+        - {x: -3, y: -32}
+        - {x: -5, y: -29}
+        - {x: -5, y: -26}
+        - {x: -1, y: -21}
+        - {x: 3, y: -21}
+        - {x: 7, y: -25}
+        - {x: 7, y: -29}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2999711ca9a0a2120800000000000000
+      internalID: 2389734212054260114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

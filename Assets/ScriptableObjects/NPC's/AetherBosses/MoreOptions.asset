@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0001ef6accf074ea80492027b6372d, type: 3}
+  m_Name: MoreOptions
+  m_EditorClassIdentifier: 
+  <dialog>k__BackingField:
+  - <Name>k__BackingField: Henry
+    <Line>k__BackingField: Which one?
+  <Response>k__BackingField:
+  - <Text>k__BackingField: The third piece.
+    <Dialog>k__BackingField: {fileID: 11400000, guid: 006621759d0274e488d7e34ee750008e, type: 2}
+    <Quest>k__BackingField: {fileID: 0}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: 
+  - <Text>k__BackingField: The fourth piece.
+    <Dialog>k__BackingField: {fileID: 11400000, guid: 8ac2c5447f160c24ea965550d1ad247b, type: 2}
+    <Quest>k__BackingField: {fileID: 0}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: 
+  - <Text>k__BackingField: The fifth piece.
+    <Dialog>k__BackingField: {fileID: 11400000, guid: 139a20f59a8499648b785455fd9f4ca1, type: 2}
+    <Quest>k__BackingField: {fileID: 0}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: 

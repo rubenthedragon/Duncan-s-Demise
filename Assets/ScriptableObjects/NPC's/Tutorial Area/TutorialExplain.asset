@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0001ef6accf074ea80492027b6372d, type: 3}
+  m_Name: TutorialExplain
+  m_EditorClassIdentifier: 
+  <dialog>k__BackingField:
+  - <Name>k__BackingField: Sgt. Foster
+    <Line>k__BackingField: It is time to pick up your training. I want you to go
+      to that sword on the ground and pick it up with 'E'.
+  - <Name>k__BackingField: Sgt. Foster
+    <Line>k__BackingField: When you've picked it up, you will see it is in your hotbar
+      down below. You can scroll through the scroll bar or press on '1' to select
+      the weapon.
+  - <Name>k__BackingField: Sgt. Foster
+    <Line>k__BackingField: When your hotbar is full any item picked up will be put
+      in your inventory. You can open it up with 'i' and drag around items as you
+      please.
+  - <Name>k__BackingField: Sgt. Foster
+    <Line>k__BackingField: I'd like you to destroy those 2 dummies with the sword
+      and grab the equipment they drop. You can then equip it by dragging it from
+      your hotbar to your equipment slots in your inventory.
+  - <Name>k__BackingField: Sgt. Foster
+    <Line>k__BackingField: Once you've accepted any quest you can press 'Q' to open
+      your questlog and see all your quests and their status.
+  - <Name>k__BackingField: Sgt. Foster
+    <Line>k__BackingField: If you don't remember some of the controls, you can always
+      press 'esc' and go to the controls menu to find what you're looking for!
+  - <Name>k__BackingField: Sgt. Foster
+    <Line>k__BackingField: Don't forget to return to me once you've destroyed those
+      dummies.
+  <Response>k__BackingField:
+  - <Text>k__BackingField: Yes sir.
+    <Dialog>k__BackingField: {fileID: 0}
+    <Quest>k__BackingField: {fileID: 7648272408558606484, guid: 595f32d3e4e49774a8f86fd618a85b14, type: 3}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: 
+  - <Text>k__BackingField: Can you repeat that please?
+    <Dialog>k__BackingField: {fileID: 11400000}
+    <Quest>k__BackingField: {fileID: 0}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: 

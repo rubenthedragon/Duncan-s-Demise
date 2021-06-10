@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0001ef6accf074ea80492027b6372d, type: 3}
+  m_Name: LichNote5
+  m_EditorClassIdentifier: 
+  <dialog>k__BackingField:
+  - <Name>k__BackingField: Note 5/6
+    <Line>k__BackingField: '"438, 15-4"'
+  - <Name>k__BackingField: Note 5/6
+    <Line>k__BackingField: "\"Adelina's remains are gone. She vanished in thin air.
+      I\u2019ve been too preoccupied with the crystal, and now my only purpose in
+      life is gone.\""
+  - <Name>k__BackingField: Note 5/6
+    <Line>k__BackingField: '"I want to end it all, but the crystal keeps me going.
+      There are days where I just keep staring into the crystal."'
+  - <Name>k__BackingField: Note 5/6
+    <Line>k__BackingField: "\"I haven\u2019t eaten in days, yet every day I feel
+      stronger and better. With the crystal, my skills have vastly improved, I can
+      keep my children alive for longer and more at the time.\""
+  - <Name>k__BackingField: Note 5/6
+    <Line>k__BackingField: "\"I don\u2019t even have to use any of my own powers,
+      the crystal does it for me. I\u2019ll keep the crystal by my side for all time.\""
+  - <Name>k__BackingField: Note 5/6
+    <Line>k__BackingField: "\"I won\u2019t stop looking for Adelina. Maybe she fled
+      from me? Didn\u2019t want to come back alive?\""
+  - <Name>k__BackingField: Note 5/6
+    <Line>k__BackingField: "\"No\u2026 that can\u2019t be. Perhaps the filthy peasants
+      from the nearby villages have stolen her? Or is one of my children playing
+      a disgusting prank on me? No\u2026 no...\""
+  - <Name>k__BackingField: Note 5/6
+    <Line>k__BackingField: "\"I\u2019ll make sure all my children will look for her
+      and find her. I\u2019ll stay at the tomb, for if she is to return to this place.\""
+  <Response>k__BackingField: []

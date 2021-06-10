@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0001ef6accf074ea80492027b6372d, type: 3}
+  m_Name: 10QuestAccept
+  m_EditorClassIdentifier: 
+  <dialog>k__BackingField:
+  - <Name>k__BackingField: The Entity
+    <Line>k__BackingField: Thank you, Duncan. Without you I would have still been
+      stuck in that damn wall
+  - <Name>k__BackingField: Duncan
+    <Line>k__BackingField: What will happen now?
+  - <Name>k__BackingField: The Entity
+    <Line>k__BackingField: I will wipe everyone of this would, everyone that has
+      betrayed me! They locked me up in a stone cave to rot
+  - <Name>k__BackingField: The Entity
+    <Line>k__BackingField: But I did not! I lived in that stone without being able
+      to die. I will show no mercy, everyone shall perish!
+  - <Name>k__BackingField: The Entity
+    <Line>k__BackingField: Could you be so nice to hand me that staff?
+  <Response>k__BackingField:
+  - <Text>k__BackingField: <Give the staff>
+    <Dialog>k__BackingField: {fileID: 11400000, guid: 10404a4e7b7ef9a44837f5333e3f7b6d, type: 2}
+    <Quest>k__BackingField: {fileID: 0}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: 
+  - <Text>k__BackingField: I can't let you do that! <Use staff on Entity>
+    <Dialog>k__BackingField: {fileID: 0}
+    <Quest>k__BackingField: {fileID: 7648272408558606484, guid: 040159c9c60905b49a9bcd9f9044238b, type: 3}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: EntityArena

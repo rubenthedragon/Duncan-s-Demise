@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0001ef6accf074ea80492027b6372d, type: 3}
+  m_Name: Sub4KillSlimes Response Anwser 1
+  m_EditorClassIdentifier: 
+  <dialog>k__BackingField:
+  - <Name>k__BackingField: Gavin
+    <Line>k__BackingField: Of course you can help.
+  - <Name>k__BackingField: Gavin
+    <Line>k__BackingField: The resistance members are overworked and travelers are
+      being attack when they approach this village by slimes.
+  - <Name>k__BackingField: Gavin
+    <Line>k__BackingField: So I would like to ask of you to deal with the slimes.
+      That way the travelers could once again safely travel to this village and the
+      resistance members can get some rest.
+  <Response>k__BackingField:
+  - <Text>k__BackingField: I will see what I can do.
+    <Dialog>k__BackingField: {fileID: 0}
+    <Quest>k__BackingField: {fileID: 7648272408558606484, guid: 84493763c779f344baa30bf1a3518b79, type: 3}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: 
+  - <Text>k__BackingField: Sorry that is way over my head.
+    <Dialog>k__BackingField: {fileID: 0}
+    <Quest>k__BackingField: {fileID: 0}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: 

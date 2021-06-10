@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: e4405f452421410458dd14249e91fec3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5166580872603247712
+    second: StairInMountain_0
+  - first:
+      213: -7692467700280079608
+    second: StairInMountain_1
+  - first:
+      213: 2228679508848924392
+    second: StairInMountain_2
+  - first:
+      213: 6968453545989388131
+    second: StairInMountain_3
+  - first:
+      213: -6420178453931753464
+    second: StairInMountain_4
+  - first:
+      213: 4217416316700112574
+    second: StairInMountain_5
+  - first:
+      213: -7984899195571985661
+    second: StairInMountain_6
+  - first:
+      213: 558038438845804052
+    second: StairInMountain_7
+  - first:
+      213: -818664332821437057
+    second: StairInMountain_8
+  - first:
+      213: -5579055148562305334
+    second: StairInMountain_9
+  - first:
+      213: 6698333487377328111
+    second: StairInMountain_10
+  - first:
+      213: 7315641636343564493
+    second: StairInMountain_11
+  - first:
+      213: 3165419424587416967
+    second: StairInMountain_12
+  - first:
+      213: 4111421829261370960
+    second: StairInMountain_13
+  - first:
+      213: 8171476945011926366
+    second: StairInMountain_14
+  - first:
+      213: -5840798206715811152
+    second: StairInMountain_15
+  - first:
+      213: 324945645859794847
+    second: StairInMountain_16
+  - first:
+      213: 601009552115885726
+    second: StairInMountain_17
+  - first:
+      213: 5512935006002002569
+    second: StairInMountain_18
+  - first:
+      213: 6486427271243196807
+    second: StairInMountain_19
+  - first:
+      213: 7967993704030146233
+    second: StairInMountain_20
+  - first:
+      213: -2747130018533650477
+    second: StairInMountain_21
+  - first:
+      213: -5986473811116191334
+    second: StairInMountain_22
+  - first:
+      213: 1242330022062701495
+    second: StairInMountain_23
+  - first:
+      213: -4728105170679866312
+    second: StairInMountain_24
+  - first:
+      213: -322913057918390075
+    second: StairInMountain_25
+  - first:
+      213: 3438206007240825439
+    second: StairInMountain_26
+  - first:
+      213: -6599106641753870777
+    second: StairInMountain_27
+  - first:
+      213: -4087548836251222263
+    second: StairInMountain_28
+  - first:
+      213: 7330161553742932930
+    second: StairInMountain_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StairInMountain_0
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 190
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abd721f11e9c48b0800000000000000
+      internalID: -5166580872603247712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StairInMountain_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6d12b843cddee10800000000000000
+      internalID: 2228679508848924392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StairInMountain_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80008c236b1f6e6a0800000000000000
+      internalID: -6420178453931753464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StairInMountain_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eea66e00d8eb700800000000000000
+      internalID: 558038438845804052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StairInMountain_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7565e3702583a4f0800000000000000
+      internalID: -818664332821437057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StairInMountain_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace21a7c6e63392b0800000000000000
+      internalID: -5579055148562305334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StairInMountain_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78587af0234ddeb20800000000000000
+      internalID: 3165419424587416967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StairInMountain_13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05629e6de54be0930800000000000000
+      internalID: 4111421829261370960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StairInMountain_14
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55eab5bcfae66170800000000000000
+      internalID: 8171476945011926366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StairInMountain_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df4d759dcb30e9d0800000000000000
+      internalID: -2747130018533650477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StairInMountain_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ee65f09734b64a0800000000000000
+      internalID: -6599106641753870777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StairInMountain_29
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cba215a817f9b560800000000000000
+      internalID: 7330161553742932930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

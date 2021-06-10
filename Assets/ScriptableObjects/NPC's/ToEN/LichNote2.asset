@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0001ef6accf074ea80492027b6372d, type: 3}
+  m_Name: LichNote2
+  m_EditorClassIdentifier: 
+  <dialog>k__BackingField:
+  - <Name>k__BackingField: Note 2/6
+    <Line>k__BackingField: '"438, 20-3"'
+  - <Name>k__BackingField: Note 2/6
+    <Line>k__BackingField: "\"I managed to recover Adelina\u2019s remains and fled
+      further away. I\u2019ve come across a tomb. It seems like it got abandoned
+      by the third war.\""
+  - <Name>k__BackingField: Note 2/6
+    <Line>k__BackingField: "\"I am glad I came across this tomb, as it is the best
+      place to experiment with all the necromancy scrolls I\u2019ve gathered, so
+      I can bring back Adelina in 1 piece.\""
+  - <Name>k__BackingField: Note 2/6
+    <Line>k__BackingField: '"I feel much better already, knowing I will be able to
+      see her soon..."'
+  <Response>k__BackingField: []

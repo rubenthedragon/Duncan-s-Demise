@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0001ef6accf074ea80492027b6372d, type: 3}
+  m_Name: 2TimothyQuestAccept 1
+  m_EditorClassIdentifier: 
+  <dialog>k__BackingField:
+  - <Name>k__BackingField: King Timothy
+    <Line>k__BackingField: Very well then, you are here now at least.
+  - <Name>k__BackingField: King Timothy
+    <Line>k__BackingField: I needed you here, because many villages in the south
+      have started worshipping a mysterious Entity.
+  - <Name>k__BackingField: King Timothy
+    <Line>k__BackingField: It has been happening for a while, but now things are
+      so bad that we don't have them under our control anymore.
+  - <Name>k__BackingField: King Timothy
+    <Line>k__BackingField: I want you to find this Entity and destroy it, so all
+      the villages will be back in our control.
+  <Response>k__BackingField:
+  - <Text>k__BackingField: Yes sir, I will check it out immediately.
+    <Dialog>k__BackingField: {fileID: 0}
+    <Quest>k__BackingField: {fileID: 6620808155198063012, guid: 7883512550219434e9794570b5ac2c39, type: 3}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: 
+  - <Text>k__BackingField: Not right now.
+    <Dialog>k__BackingField: {fileID: 0}
+    <Quest>k__BackingField: {fileID: 0}
+    <OpenShop>k__BackingField: 0
+    <KillPlayer>k__BackingField: 0
+    <GoToScene>k__BackingField: 

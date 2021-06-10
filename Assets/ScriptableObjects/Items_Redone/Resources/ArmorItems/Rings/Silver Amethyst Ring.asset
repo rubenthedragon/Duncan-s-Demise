@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4cf105ab0acd644c96e4dc41739bd8c, type: 3}
+  m_Name: Silver Amethyst Ring
+  m_EditorClassIdentifier: 
+  Id: 55
+  uiDisplay: {fileID: 21300000, guid: f23a4a45d6d693144823598f6167d393, type: 3}
+  type: 2
+  description: Embedded with a small purple gem.
+  stackSize: 1
+  weight: 1
+  baseValue: 40
+  value: 0
+  buffs:
+  - stat: 5
+    Value: 25
+    min: 0
+    max: 0
+  rarity: 0
+  armorSubType: 4
